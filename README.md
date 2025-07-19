@@ -5,13 +5,19 @@ This project is a simple and efficient Speech-to-Text Converter that captures vo
 🔧 Features
 
 🎙️ Real-time voice input via microphone
+
 ✍️ Instant transcription of speech to text
+
 🌐 Supports multiple languages (customizable)
+
 💻 Lightweight and easy to run on any system
+
 🧠 Powered by Python and open-source speech libraries
 
 🛠️ Technologies Used
 
 Python 3
+
 SpeechRecognition
+
 PyAudio
