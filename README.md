@@ -1,5 +1,4 @@
 🗣️ Speech to Text Converter
-
 This project is a simple and efficient Speech-to-Text Converter that captures voice input through a microphone and transcribes it into readable text. It is designed to demonstrate how speech recognition can be implemented using Python, making it a useful tool for accessibility, automation, and voice-controlled applications.
 
 🔧 Features
