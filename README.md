@@ -5,7 +5,6 @@ This project is a simple and efficient Speech-to-Text Converter that captures vo
 🎙️ Real-time voice input via microphone
 
 ✍️ Instant transcription of speech to text
-
 🌐 Supports multiple languages (customizable)
 
 💻 Lightweight and easy to run on any system
