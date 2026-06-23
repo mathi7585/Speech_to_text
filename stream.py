@@ -3,7 +3,6 @@ import sounddevice as sd
 import speech_recognition as sr
 import numpy as np
 import wavio
-
 def record_audio(filename, duration=5, samplerate=16000):
     """
     Records audio using sounddevice and saves it as a WAV file.
