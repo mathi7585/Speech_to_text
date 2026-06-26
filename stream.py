@@ -13,7 +13,6 @@ def record_audio(filename, duration=5, samplerate=16000):
     wavio.write(filename, audio_data, samplerate, sampwidth=2)  # Save audio in WAV format
     st.write("Recording completed.")
     return filename
-
 def process_audio(file_path):
     """
     Converts audio to text using speech_recognition.
