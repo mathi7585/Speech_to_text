@@ -32,7 +32,6 @@ def process_audio(file_path):
     except sr.RequestError as e:
         st.error(f"Error with the recognition service: {e}")
         return None
-
 # Streamlit App
 def main():
     st.title("Speech-to-Text Converter")
