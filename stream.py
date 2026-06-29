@@ -36,7 +36,6 @@ def process_audio(file_path):
 def main():
     st.title("Speech-to-Text Converter")
     st.write("This app records your voice and converts it to text.")
-
     duration = st.slider("Select the recording duration (seconds):", min_value=1, max_value=10, value=5)
     audio_file = "recorded_audio.wav"
 
